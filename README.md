@@ -18,4 +18,4 @@ Este repositorio contiene un pequeño manual sobre Flexbox, proporcionando una g
 
 ### TailwindCSS
 
-* [Clases de Flexbox en Tailwind CSS]()
+* [Clases de Flexbox en Tailwind CSS](https://github.com/KIRIL13POK/FlexboxInfo/blob/main/flexbox_TalwindCss.md)
