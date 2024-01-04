@@ -35,12 +35,12 @@
     - Discute la alineación vertical de los elementos en un contenedor Flexbox, utilizando `align-items` o `align-self`.
 
 
-    * flex-wrap          - Envoltura Flex
-    * justify-content    - Justificar Contenido
-    * align-items        - Alinear Elementos
-    * flex-flow          - Flujo Flex
-    * order              - orden
-    * flex-grow          - Crecimiento Flex
-    * flex-shrink        - Encogimiento Flex
-    * flex-basis         - Base Flex
-    * align align-self   - Alinear Individualmente
+    * [flex-wrap          - Envoltura Flex]
+    * [justify-content    - Justificar Contenido]
+    * [align-items        - Alinear Elementos]
+    * [flex-flow          - Flujo Flex]
+    * [order              - orden]
+    * [flex-grow          - Crecimiento Flex]
+    * [flex-shrink        - Encogimiento Flex]
+    * [flex-basis         - Base Flex]
+    * [align align-self   - Alinear Individualmente]
