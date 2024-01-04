@@ -15,3 +15,7 @@ Este repositorio contiene un pequeño manual sobre Flexbox, proporcionando una g
 * [flex-shrink        - Encogimiento Flex](https://github.com/KIRIL13POK/FlexboxInfo/blob/main/flex-shrink.md)
 * [flex-basis         - Base Flex](https://github.com/KIRIL13POK/FlexboxInfo/blob/main/flex-shrink.md)
 * [ align-self   - Alinear Individualmente](https://github.com/KIRIL13POK/FlexboxInfo/blob/main/align-self.md)
+
+### TailwindCSS
+
+* [Clases de Flexbox en Tailwind CSS]()
